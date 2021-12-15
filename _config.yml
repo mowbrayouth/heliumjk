@@ -7,8 +7,8 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url:  https://mowbrayouth.github.io/heliumjk.github.io 
-baseurl: "mowbrayouth.github.io/heliumjk.github.io "
+url:  https://mowbrayouth.github.io/heliumjk 
+baseurl: "mowbrayouth.github.io/heliumjk"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
